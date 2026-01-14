@@ -9,28 +9,6 @@
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h3>
-
-<div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Brandonalexiscc&show_icons=true&theme=tokyonight&hide_border=true"
-    height="170"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brandonalexiscc&layout=compact&theme=tokyonight&hide_border=true"
-    height="170"
-  />
-</div>
-
-<div align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=Brandonalexiscc&theme=tokyonight&hide_border=true"
-    height="170"
-  />
-</div>
-
----
-
 ###
 
 <h3 align="center">🛠 Languages and Tools:</h3>
@@ -64,9 +42,7 @@
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
 </div>
 
-###
-
-###
+---
 
 <h3 align="center">🌐 Connect with me</h3>
 
@@ -79,14 +55,24 @@
   </a>
 </p>
 
+<h2 align="center">📊 GitHub Stats</h3>
+
+<div align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Brandonalexiscc&show_icons=true&theme=tokyonight&hide_border=true"
+    height="170"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brandonalexiscc&layout=compact&theme=tokyonight&hide_border=true"
+    height="170"
+  />
+</div>
+
+<div align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=Brandonalexiscc&theme=tokyonight&hide_border=true"
+    height="170"
+  />
+</div>
 
 
-<h2 align="center">👀 Profile Views</h3>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Brandonalexiscc&color=blue&style=flat" />
-</p>
-
----
-<h2 align="center">📈 Contribution Graph</h3>
-
-![Contribution Graph](https://ghchart.rshah.org/22c55e/Brandonalexiscc)
