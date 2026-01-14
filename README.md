@@ -47,7 +47,7 @@
 
 ###
 
-[![Brandonalexiscc's GitHub stats](https://github-readme-stats.vercel.app/api?username=Brandonalexiscc)](https://github.com/Brandonalexiscc/github-readme-stats)
+[![Brandonalexiscc GitHub stats](https://github-readme-stats.vercel.app/api?username=Brandonalexiscc)](https://github.com/Brandonalexiscc/github-readme-stats)
 
 ###
 
