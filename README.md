@@ -87,7 +87,6 @@
 </p>
 
 ---
+<h2 align="center">📈 Contribution Graph</h3>
 
-### 📈 Contribution Graph
-
-![Contribution Graph](https://ghchart.rshah.org/Brandonalexiscc)
+![Contribution Graph](https://ghchart.rshah.org/22c55e/Brandonalexiscc)
