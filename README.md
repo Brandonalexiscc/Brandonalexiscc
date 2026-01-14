@@ -1,6 +1,5 @@
 
 <h1 align="center">Hi 👋, I'm Brandon Calvario</h1>
-<h2 align="center">Frontend Developer</h3>
 
 <p align="center">
   Passionate about building modern, responsive, and scalable web applications.
@@ -86,3 +85,9 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Brandonalexiscc&color=blue&style=flat" />
 </p>
+
+---
+
+### 📈 Contribution Graph
+
+![Contribution Graph](https://ghchart.rshah.org/Brandonalexiscc)
