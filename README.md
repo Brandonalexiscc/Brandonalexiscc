@@ -47,11 +47,7 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Brandonalexiscc/Brandonalexiscc/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Brandonalexiscc/Brandonalexiscc/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Brandonalexiscc/Brandonalexiscc/output/pacman-contribution-graph.svg">
-</picture>
+[![Brandonalexiscc github stats](https://github-readme-stats.vercel.app/api?username=Brandonalexiscc)](https://github.com/Brandonalexiscc/github-readme-stats)
 
 ###
 
